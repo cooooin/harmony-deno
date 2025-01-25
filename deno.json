@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@std": "jsr:@std",
+
+    "api/": "./src/api/",
+    "client": "./src/client.ts"
+  }
+}
